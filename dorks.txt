@@ -1,0 +1,5 @@
+inurl:login.php
+inurl:admin.asp
+inurl:search.jsp
+inurl:user.php?id=
+inurl:product.aspx?pid=
