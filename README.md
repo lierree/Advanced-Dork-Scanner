@@ -21,10 +21,10 @@ Lierre is a Python-based tool for discovering potential SQL injection and XSS vu
 ## Installation
 1. **Clone or Download**:
    ```bash
-   git clone https://github.com/yourusername/lierre.git
-   cd lierre
+   git clone
+   https://github.com/lierree/Advanced-Dork-Scanner
+   cd Advanced-Dork-Scanner
    ```
-   (Replace `yourusername` with your GitHub username if hosted, or adjust for other distribution methods.)
 
 2. **Install Dependencies**:
    ```bash
@@ -89,4 +89,4 @@ Select scan type (sql/xss): sql
 - **Colorama Issues**: Confirm `colorama` is installed and `init(autoreset=True)` is in the script.
 
 ## Disclaimer
-Lierre is for ethical security research and educational purposes only. The authors are not liable for misuse or damage caused by this tool. Always obtain explicit permission before scanning or testing any system.
+Lierre is for ethical security research and educational purposes only. The author are not liable for misuse or damage caused by this tool. Always obtain explicit permission before scanning or testing any system.
